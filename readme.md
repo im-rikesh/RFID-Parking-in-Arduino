@@ -1,6 +1,6 @@
 # Automated Parking System - using RFID and Database
 
-This project uses arduino, RFID, RFID Card, a couple of servo motors, arduino ethernet module, IR sensors and a local database on a laptop. The laptop needs to be connected to the ethernet module via RJ45 cable. All the datas of the cars that are parked are stored on the database and as soon as the car gets out, all the imformation of the car are then deleted.
+This project uses arduino, RFID, RFID Card, a couple of servo motors, arduino ethernet module, IR sensors and a local database on a laptop. The laptop needs to be connected to the ethernet module via RJ45 cable. All the datas of the cars that are parked are stored on the database and as soon as the car gets out, total time of parking and the parking fare is displayed and all the imformation of the car are then deleted.
 
 In this sample project, we have allotted the maximum number of parking space as 1.
 
